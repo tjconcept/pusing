@@ -5,8 +5,8 @@ like [`join`](https://github.com/tjconcept/psjoin) but with named arguments
 rather than relying on order.
 
 ```js
-// npm install @thomas-jensen/usingps
-// const join = require('@thomas-jensen/usingps')
+// npm install usingps
+// const join = require('usingps')
 import using from 'https://esm.sh/usingps@1.0.0'
 const a = Promise.resolve(1)
 const b = Promise.resolve(2)
