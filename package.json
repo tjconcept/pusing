@@ -1,6 +1,6 @@
 {
 	"name": "usingps",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"repository": "tjconcept/usingps",
 	"scripts": {
 		"test": "node test"

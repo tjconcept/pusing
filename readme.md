@@ -7,7 +7,7 @@ rather than relying on order.
 ```js
 // npm install usingps
 // const join = require('usingps')
-import using from 'https://esm.sh/usingps@1.0.0'
+import using from 'https://esm.sh/usingps@1.0.1'
 const a = Promise.resolve(1)
 const b = Promise.resolve(2)
 const c = Promise.resolve(4)
